@@ -37,3 +37,6 @@ A real-time chat application built using **Java**, **JavaFX** (for GUI), **Sprin
 ---
 
 ## 📁 Folder Structure
+
+ChatApp/ ├── src/ │ └── main/ │ ├── java/com/example/chatapp/ │ ├── resources/application.properties ├── pom.xml └── README.md
+
